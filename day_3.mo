@@ -127,7 +127,7 @@ actor {
  // Challenge 9 : Write a function increase_by_index that takes an array [Nat] and returns a new array where each number has been increased by it's corresponding index.
  // Note : increase_by_index [1, 4, 8, 0] -> [1 + 0, 4 + 1 , 8 + 2 , 0 + 3] = [1,5,10,3]
  // Note 2 : Do not use a loop.
-
+//
  //  public func increase_by_index(a : [Nat]) : async [Nat] {
 
  //  };
