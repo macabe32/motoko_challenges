@@ -73,7 +73,7 @@ actor {
 
  //Challenge 8 : Write a function duplicated_character that takes a Text t and returns the first duplicated character in t converted to Text. Note : The function should return the whole Text if there is no duplicate character 
  //  public func duplicated_character (t : Text) : async Text {
- //    if Pattern (#predicate : Char) false
+ //    if Pattern (#char : Pattern) false
  //      return t
  //        else
  //  take t and use Pattern to recognize (#text : Text)
